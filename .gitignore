@@ -1,0 +1,4 @@
+.DS_Store
+env.sh
+node_modules
+key.key
